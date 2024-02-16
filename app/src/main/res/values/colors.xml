@@ -6,5 +6,7 @@
     <color name="iconColor">#58585A</color>
     <color name="textColor">#969293</color>
     <color name="backgroundColor">#FDF6FE</color>
+    <color name="day_statusBarColor">#FD7696</color>
+
 
 </resources>
