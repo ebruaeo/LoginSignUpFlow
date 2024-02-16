@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Coffee Addict</string>
+    <string name="app_name">Coffee</string>
     <string name="email_phone_number">Email/Phone Number</string>
     <string name="coffee">Coffee</string>
     <string name="welcome_back">Welcome back</string>
